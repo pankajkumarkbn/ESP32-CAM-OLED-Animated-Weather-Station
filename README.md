@@ -16,6 +16,11 @@ An animated, offline weather station for the ESP32‑CAM that uses a DHT11 and B
   - Uses **absolute pressure bands**, **pressure trend over time**, and **humidity** to classify likely conditions (sunny, cloudy, rain, storm).[6][7][8]
 - Fully offline: no Wi‑Fi, no cloud dependency, ideal for a desk, balcony, or workbench.
 
+## Preview
+<img src="ESP32CAM_WEBUI_OLED_Weather-Station1.jpeg" width="320" height="320">
+
+***
+
 ## Hardware
 
 - **ESP32‑CAM (AI‑Thinker)** module.[9]
